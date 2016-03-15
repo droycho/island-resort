@@ -13,6 +13,7 @@ p {
   font-family: sans-serif;
   font-style: italic;
   color: black;
+  text-align: center;
 }
 
 ul {
@@ -26,5 +27,7 @@ ol {
   line-height: 35px:
 }
 img {
-    display: block;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
 }
