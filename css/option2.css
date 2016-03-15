@@ -1,5 +1,5 @@
 h1 {
-  color: orange;
+  color: green;
   text-align: center;
 }
 
@@ -11,7 +11,6 @@ h2 {
 p {
   font-size: 20px;
   font-family: sans-serif;
-  text-align: center;
 }
 
 ul {
@@ -24,6 +23,4 @@ ol {
 }
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto
 }
