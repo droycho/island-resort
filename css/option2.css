@@ -11,15 +11,19 @@ h2 {
 p {
   font-size: 20px;
   font-family: sans-serif;
+  font-style: italic;
+  color: black;
 }
 
 ul {
   font-size: 35px;
-  line-height: 35px;
+  line-height: 45px;
+  color: red;
+  list-style-type:circle;
 }
 ol {
   font-size: 25px;
-  line-height: 30px:
+  line-height: 35px:
 }
 img {
     display: block;

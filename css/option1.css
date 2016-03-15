@@ -1,5 +1,5 @@
 h1 {
-  color: orange;
+  color: red;
   text-align: center;
 }
 
@@ -17,10 +17,12 @@ p {
 ul {
   font-size: 35px;
   line-height: 35px;
+  text-align: center;
 }
 ol {
   font-size: 25px;
   line-height: 30px:
+  text-align: center;
 }
 img {
     display: block;
